@@ -4,9 +4,9 @@
 
 **Team Components**
 
-Matteo Nestola - matteo.nestola@studio.unibo.it
-Simona Scala - simona.scala6@studio.unibo.it
-Sara Vorabbi - sara.vorabbi@studio.unibo.it
+Matteo Nestola - matteo.nestola@studio.unibo.it \
+Simona Scala - simona.scala6@studio.unibo.it \
+Sara Vorabbi - sara.vorabbi@studio.unibo.it \
 
 ### The challenge: Identification of Human Values Behind Arguments
 
